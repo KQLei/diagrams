@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-28T09:21:27.516Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56" etag="sfCXtX2gCeLyJDn-V_Il" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-28T14:22:16.462Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56" etag="I5AGgTPtXn0eocpFzD6a" version="20.6.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="#283618" math="0" shadow="0">
+    <mxGraphModel dx="1151" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="#283618" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -161,11 +161,11 @@
         <mxCell id="8Dled8sgga6Gd7d0gzef-14" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#FFB570;fontSize=16;fontColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4EodopUDXFX_upc396kd-5" target="4EodopUDXFX_upc396kd-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8Dled8sgga6Gd7d0gzef-94" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#FFB570;fontSize=16;fontColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4EodopUDXFX_upc396kd-5" target="8Dled8sgga6Gd7d0gzef-33" edge="1">
+        <mxCell id="qhleur2cIIA_qSf-s10N-0" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFB570;labelBackgroundColor=none;fontColor=#FFFFFF;fontSize=16;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4EodopUDXFX_upc396kd-5" target="8Dled8sgga6Gd7d0gzef-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1070" y="407" />
-              <mxPoint x="1070" y="525" />
+              <mxPoint x="1050" y="407" />
+              <mxPoint x="1050" y="520" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -205,11 +205,11 @@
         <mxCell id="8Dled8sgga6Gd7d0gzef-17" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#FFB570;fontSize=16;fontColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4EodopUDXFX_upc396kd-37" target="8Dled8sgga6Gd7d0gzef-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8Dled8sgga6Gd7d0gzef-95" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#FFB570;fontSize=16;fontColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4EodopUDXFX_upc396kd-37" target="8Dled8sgga6Gd7d0gzef-33" edge="1">
+        <mxCell id="qhleur2cIIA_qSf-s10N-2" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFB570;labelBackgroundColor=none;fontColor=#FFFFFF;fontSize=16;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4EodopUDXFX_upc396kd-37" target="8Dled8sgga6Gd7d0gzef-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1070" y="664" />
-              <mxPoint x="1070" y="525" />
+              <mxPoint x="1050" y="664" />
+              <mxPoint x="1050" y="520" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -284,8 +284,8 @@
         <mxCell id="8Dled8sgga6Gd7d0gzef-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#FFB570;fontSize=16;fontColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8Dled8sgga6Gd7d0gzef-33" target="4EodopUDXFX_upc396kd-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8Dled8sgga6Gd7d0gzef-33" value="使用guid作为cacheKey，对象{memberId,token}作为cacheValue，保存到redis中，缓存10分钟" style="whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;rounded=0;glass=0;strokeWidth=1;shadow=0;sketch=0;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1223" y="488.91" width="192" height="71.09" as="geometry" />
+        <mxCell id="8Dled8sgga6Gd7d0gzef-33" value="使用token.sha256()作为cacheKey，对象{memberId,organiztionId,tokenItemId}作为cacheValue，保存到redis中，缓存10分钟" style="whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;rounded=0;glass=0;strokeWidth=1;shadow=0;sketch=0;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1214.2" y="480" width="209" height="81.09" as="geometry" />
         </mxCell>
         <mxCell id="sdW-mLmFA9fEZSNryU06-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#FFB570;fontSize=16;fontColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8Dled8sgga6Gd7d0gzef-43" target="8Dled8sgga6Gd7d0gzef-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
