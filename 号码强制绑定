@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-01T12:58:03.930Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56" etag="Oit7S9T_3w8QAV_lNR6d" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-01T12:58:46.363Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56" etag="ZlVI1bfs9TXxpckN5ijm" version="20.6.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="4509" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#283618" math="0" shadow="0">
       <root>
@@ -230,7 +230,7 @@
         <mxCell id="O2cL3ylaK0dNp5vwbl4C-123" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#FFB570;fontSize=16;fontColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O2cL3ylaK0dNp5vwbl4C-112" target="O2cL3ylaK0dNp5vwbl4C-122">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O2cL3ylaK0dNp5vwbl4C-134" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#FFB570;fontSize=16;fontColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O2cL3ylaK0dNp5vwbl4C-112" target="O2cL3ylaK0dNp5vwbl4C-92">
+        <mxCell id="O2cL3ylaK0dNp5vwbl4C-151" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#FFB570;fontSize=16;fontColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O2cL3ylaK0dNp5vwbl4C-112" target="O2cL3ylaK0dNp5vwbl4C-150">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O2cL3ylaK0dNp5vwbl4C-112" value="cacheValue中memberId是否有值" style="rhombus;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;rounded=0;glass=0;strokeWidth=1;shadow=0;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -261,6 +261,12 @@
         </mxCell>
         <mxCell id="O2cL3ylaK0dNp5vwbl4C-130" value="更新member中微信相关数据以及IdentityUser中的username" style="whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;rounded=0;glass=0;strokeWidth=1;shadow=0;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="798.615" y="1260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O2cL3ylaK0dNp5vwbl4C-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#FFB570;fontSize=16;fontColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O2cL3ylaK0dNp5vwbl4C-150" target="O2cL3ylaK0dNp5vwbl4C-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O2cL3ylaK0dNp5vwbl4C-150" value="获取member" style="whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;rounded=0;glass=0;strokeWidth=1;shadow=0;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="995.6899999999998" y="1128" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
