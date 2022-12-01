@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-01T02:35:42.068Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56" etag="PL_yfu8Hh3loVZEefqV3" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-01T02:44:47.814Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56" etag="QIyNcYq6fgiVFf6We-96" version="20.6.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1209" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="#283618" math="0" shadow="0">
+    <mxGraphModel dx="2378" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="#283618" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -35,7 +35,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O2cL3ylaK0dNp5vwbl4C-5" value="调用getUserInfo接口，获取用户信息" style="whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="115" y="275" width="120" height="60" as="geometry" />
+          <mxGeometry x="-25" y="275" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O2cL3ylaK0dNp5vwbl4C-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#FFB570;fontSize=16;fontColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O2cL3ylaK0dNp5vwbl4C-12" target="O2cL3ylaK0dNp5vwbl4C-15">
           <mxGeometry relative="1" as="geometry" />
@@ -79,17 +79,41 @@
         <mxCell id="O2cL3ylaK0dNp5vwbl4C-39" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#FFB570;fontSize=16;fontColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O2cL3ylaK0dNp5vwbl4C-36" target="O2cL3ylaK0dNp5vwbl4C-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O2cL3ylaK0dNp5vwbl4C-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#FFB570;fontSize=16;fontColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O2cL3ylaK0dNp5vwbl4C-36" target="O2cL3ylaK0dNp5vwbl4C-30">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="O2cL3ylaK0dNp5vwbl4C-36" value="用户是否绑定了手机？" style="rhombus;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="110" y="397.5" width="130" height="85" as="geometry" />
+          <mxGeometry x="-30" y="397.5" width="130" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="O2cL3ylaK0dNp5vwbl4C-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#FFB570;fontSize=16;fontColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O2cL3ylaK0dNp5vwbl4C-38" target="O2cL3ylaK0dNp5vwbl4C-32">
+        <mxCell id="O2cL3ylaK0dNp5vwbl4C-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#FFB570;fontSize=16;fontColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O2cL3ylaK0dNp5vwbl4C-38" target="O2cL3ylaK0dNp5vwbl4C-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O2cL3ylaK0dNp5vwbl4C-38" value="打开“怡仔说”绑定手机页面&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="115" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="-25" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O2cL3ylaK0dNp5vwbl4C-49" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#FFB570;fontSize=16;fontColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O2cL3ylaK0dNp5vwbl4C-44" target="O2cL3ylaK0dNp5vwbl4C-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O2cL3ylaK0dNp5vwbl4C-52" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#FFB570;fontSize=16;fontColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O2cL3ylaK0dNp5vwbl4C-44" target="O2cL3ylaK0dNp5vwbl4C-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O2cL3ylaK0dNp5vwbl4C-44" value="当前号码是否已经绑定其他member？" style="rhombus;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-33.75" y="750" width="137.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="O2cL3ylaK0dNp5vwbl4C-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#FFB570;fontSize=16;fontColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O2cL3ylaK0dNp5vwbl4C-48" target="O2cL3ylaK0dNp5vwbl4C-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O2cL3ylaK0dNp5vwbl4C-48" value="弹窗“当前号码存在多个账号，请联系客服。”" style="whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-210" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O2cL3ylaK0dNp5vwbl4C-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#FFB570;fontSize=16;fontColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O2cL3ylaK0dNp5vwbl4C-51" target="O2cL3ylaK0dNp5vwbl4C-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O2cL3ylaK0dNp5vwbl4C-51" value="将手机号码与当前member绑定" style="whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-25" y="877" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O2cL3ylaK0dNp5vwbl4C-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#FFB570;fontSize=16;fontColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O2cL3ylaK0dNp5vwbl4C-53" target="O2cL3ylaK0dNp5vwbl4C-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O2cL3ylaK0dNp5vwbl4C-53" value="获取到用户输入的手机号码" style="whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-25" y="631" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
