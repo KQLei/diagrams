@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-07T07:50:52.568Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.42" etag="jg3pu4zt90xRn3FY8oZ7" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-07T11:13:49.803Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.42" etag="RAgetjxP45WKJ5xu6jHA" version="20.6.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1209" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#283618" math="0" shadow="0">
+    <mxGraphModel dx="1860" dy="1037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#283618" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -173,11 +173,16 @@
         <mxCell id="4EodopUDXFX_upc396kd-7" value="获取当前Members" style="whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;rounded=0;glass=0;strokeWidth=1;shadow=0;sketch=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="782.0799999999999" y="512" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8Dled8sgga6Gd7d0gzef-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#FFB570;fontSize=16;fontColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4EodopUDXFX_upc396kd-19" target="8Dled8sgga6Gd7d0gzef-33" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="8Dled8sgga6Gd7d0gzef-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#FFB570;fontSize=16;fontColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4EodopUDXFX_upc396kd-19" target="4EodopUDXFX_upc396kd-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1094" y="340" />
+              <mxPoint x="842" y="340" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="4EodopUDXFX_upc396kd-19" value="系统使用Token自动创建企业白名单TokenItem纪录，表中可能要加一个source（cliendId）字段，标识token由SSO创建" style="whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;rounded=0;glass=0;strokeWidth=1;shadow=0;sketch=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1229.9199999999996" y="228" width="177.39" height="69" as="geometry" />
+          <mxGeometry x="1005.0899999999996" y="227" width="177.39" height="69" as="geometry" />
         </mxCell>
         <mxCell id="4EodopUDXFX_upc396kd-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#FFB570;fontSize=18;fontColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4EodopUDXFX_upc396kd-20" target="4EodopUDXFX_upc396kd-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
