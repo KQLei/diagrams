@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-12T13:38:09.218Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46" etag="az0TnhjvCgqo_wMHj278" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-12T13:38:53.066Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46" etag="rgzIeKfRi0SfpXhbRMdr" version="20.6.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1209" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#283618" math="0" shadow="0">
       <root>
@@ -113,6 +113,14 @@
         </mxCell>
         <mxCell id="zfbFLniShQ86ItX8b70W-75" value="member是否存在？" style="rhombus;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;rounded=0;glass=0;strokeWidth=1;shadow=0;sketch=0;fontSize=11;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="744.76" y="1350" width="114.78" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pG4_hDluyhptwnLj2zMr-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFB570;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zfbFLniShQ86ItX8b70W-79" target="zfbFLniShQ86ItX8b70W-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="1390" />
+              <mxPoint x="300" y="1955" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="zfbFLniShQ86ItX8b70W-79" value="将当前手机号码从其他member上解绑，并将手机号码绑定给当前member" style="whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;rounded=0;glass=0;strokeWidth=1;shadow=0;sketch=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="517.15" y="1360" width="170" height="60" as="geometry" />
